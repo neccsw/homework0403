@@ -1,0 +1,3 @@
+Ganna;21;85
+Sashko;19;90
+Olena;22;78
