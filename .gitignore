@@ -1,5 +1,5 @@
 # Output files
-data/txt_output/
+data/txt_output/*.txt
 
 # Python-generated files
 __pycache__/
